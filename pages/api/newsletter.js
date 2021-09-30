@@ -2,8 +2,8 @@ import axios from "axios";
 
 function getRequestParams(email) {
   // get env variables
-  const API_KEY = "cf33f4dbcb7b1082cdb480ea6bb16ff4-us5";
-  const LIST_ID = "99651a52cf";
+  const API_KEY = "";
+  const LIST_ID = "";
   // mailchimp datacenter - mailchimp api keys always look like this:
   // fe4f064432e4684878063s83121e4971-us6
   // We need the us6 part
